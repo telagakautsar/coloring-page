@@ -2,7 +2,7 @@
 "Ads":
   [
     {
-      "select_ads":"UNITY",
+      "select_ads":"KIDOZ",
       "status_redirect":"",
       "link_redirect":"",
       "admob_inter":"",
@@ -12,8 +12,8 @@
       "unityID":"4494806",
       "unity_banner":"Banner_Android",
       "unity_inter":"Interstitial_Android",
-      "kidoz_pub_id":"",
-      "kidoz_token":""
+      "kidoz_pub_id":"14528",
+      "kidoz_token":"udZZ3AKa6CDOwDzw4XtYnPJs6CA7CEIZ"
     }
   ]
 
