@@ -8,7 +8,7 @@
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
-      "interval":"",
+      "interval":"2",
       "unityID":"4494806",
       "unity_banner":"Banner_Android",
       "unity_inter":"Interstitial_Android",
